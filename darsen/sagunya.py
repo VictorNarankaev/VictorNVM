@@ -1,0 +1,2 @@
+name = darsen
+print(name)
